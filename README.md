@@ -1,14 +1,13 @@
-### Hi there 👋
+## just a programer
 
-<!--
-**amir4976/amir4976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **amir4976/amir4976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
 
 I am amir h ahmadi,im always wake up with a nother idea, idont know why bum im like this, lets make our own idea:
 
 
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/amir_h_ahmadi_i.m/)](https://instagram.com/kanna6501)
+[![Instagram Badge](https://img.shields.io/badge/-amir_h_ahmadi_i.m-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/amir_h_ahmadi_i.m/)](https://instagram.com/amir_h_ahmadi_i.m)
 
 [![Gmail Badge](https://img.shields.io/badge/-amirhosianahmadi4976@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amirhosianahmadi4976@gmail.com)](mailto:kanna6501@gmail.com)
 
@@ -18,8 +17,8 @@ I am amir h ahmadi,im always wake up with a nother idea, idont know why bum im l
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+<!-- ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) -->
+<!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) -->
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -44,6 +43,6 @@ I am amir h ahmadi,im always wake up with a nother idea, idont know why bum im l
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir4976&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir4976&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amir4976)
