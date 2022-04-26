@@ -6,11 +6,8 @@
 
 I am amir h ahmadi,im always wake up with a nother idea, idont know why but im like this, lets make our own idea shell we?:
 
-
 [![Instagram Badge](https://img.shields.io/badge/-amir_h_ahmadi_i.m-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/amir_h_ahmadi_i.m/)](https://instagram.com/amir_h_ahmadi_i.m)
-
 [![twitter Badge](https://img.shields.io/badge/-@amirhosianahma1-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/amirhosianahma1)](https://twitter.com/amirhosianahma1)
-
 [![Gmail Badge](https://img.shields.io/badge/-amirhosianahmadi4976@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amirhosianahmadi4976@gmail.com)](mailto:kanna6501@gmail.com)
 
 ## ⚡ Technologies
