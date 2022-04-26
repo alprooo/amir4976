@@ -41,8 +41,21 @@ I am amir h ahmadi,im always wake up with a nother idea, idont know why but im l
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir4976&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir4976&hide=TeX&layout=compact)
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amir4976) -->
 <p align="right">
