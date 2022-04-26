@@ -1,4 +1,4 @@
-## just a programer
+#### just a nerd 
 
 <!-- **amir4976/amir4976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
