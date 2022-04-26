@@ -4,7 +4,7 @@
 
 
 
-I am amir h ahmadi,im always wake up with a nother idea, idont know why bum im like this, lets make our own idea:
+I am amir h ahmadi,im always wake up with a nother idea, idont know why but im like this, lets make our own idea shell we?:
 
 
 [![Instagram Badge](https://img.shields.io/badge/-amir_h_ahmadi_i.m-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/amir_h_ahmadi_i.m/)](https://instagram.com/amir_h_ahmadi_i.m)
