@@ -6,7 +6,7 @@
 
 <!-- ![test image 1](https://kariera.future-processing.pl/wp-content/uploads/2018/01/blog_Security_Headers.png) -->
 
-![test image 1](E:\photoshop learn\AI LRN\v\Untitled-1.png)
+![test image 1](file:///E:/photoshop%20learn/AI%20LRN/v/Untitled-1.png)
 
 I am amir h ahmadi,im always wake up with a nother idea, idont know why but im like this, lets make our own idea shell we?:
 
