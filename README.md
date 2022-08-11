@@ -1,3 +1,4 @@
+![cover-image](https://user-images.githubusercontent.com/93821178/184066567-68b76816-8fa7-4972-b891-3e4068ba9203.jpg)
 #### just a nerd 
 # 💻
 
@@ -6,7 +7,7 @@
 
 <!-- ![test image 1](https://kariera.future-processing.pl/wp-content/uploads/2018/01/blog_Security_Headers.png) -->
 
-![test image 1](https://www.aspfaqs.com/wp-content/uploads/2021/10/pankaj-patel-_SgRNwAVNKw-unsplash-1.jpg)
+
 
 I am amir h ahmadi,im always wake up with a nother idea, idont know why but im like this, lets make our own idea shell we?:
 
