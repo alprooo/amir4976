@@ -65,8 +65,8 @@ I am amir h ahmadi,im always wake up with a nother idea, idont know why but im l
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=اسم) -->
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"></img>
+
 </p>
 
 
