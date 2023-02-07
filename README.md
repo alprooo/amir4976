@@ -1,5 +1,9 @@
 ![cover-image](https://user-images.githubusercontent.com/93821178/184066567-68b76816-8fa7-4972-b891-3e4068ba9203.jpg)
-#### just a nerd 
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=480&lines=Hello+world+%2C+im+amir+h+ahmadi" alt="Typing SVG" /></a>
+</p>
+
 # 💻 developer
 
 
@@ -71,3 +75,6 @@ I am amir h ahmadi,im always wake up with a nother idea, idont know why but im l
 
 ## learning... until death ☠️
 whatever tacks
+
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=amir4976&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
