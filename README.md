@@ -1,4 +1,5 @@
-![cover-image](https://user-images.githubusercontent.com/93821178/184066567-68b76816-8fa7-4972-b891-3e4068ba9203.jpg)
+
+[![image](https://www.linkpicture.com/q/github-header-01.jpg)](https://www.linkpicture.com/view.php?img=LPic63e4001a7382057257096)
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=480&lines=Hello+world+%2C+im+amir+h+ahmadi" alt="Typing SVG" /></a>
@@ -54,22 +55,16 @@ I am amir h ahmadi,im always wake up with a nother idea, idont know why but im l
 <!-- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir4976&show_icons=true&theme=dark)
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir4976&show_icons=true&theme=dark)
+  <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir4976&hide=TeX&layout=compact&theme=dark)
 
 
 
 
 
-
-
-
-
-
-
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amir4976)
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=amir4976&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
 
@@ -77,4 +72,4 @@ I am amir h ahmadi,im always wake up with a nother idea, idont know why but im l
 whatever tacks
 
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=amir4976&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
