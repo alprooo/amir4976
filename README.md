@@ -2,7 +2,7 @@
 [![image](https://www.linkpicture.com/q/github-header-01.jpg)](https://www.linkpicture.com/view.php?img=LPic63e4001a7382057257096)
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=480&lines=Hello+world+%2C+im+amir+h+ahmadi" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=F7C33D&width=435&lines=Hello+world+im+Amir+H+Ahmadi;im+a+full+stack+web+developer" alt="Typing SVG" /></a>
 </p>
 
 # 💻 developer
