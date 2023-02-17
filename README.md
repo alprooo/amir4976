@@ -78,7 +78,7 @@ I am amir h ahmadi,im always wake up with a nother idea, idont know why but im l
 
 <!-- ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket) -->
 <!-- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
-
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=amir4976&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir4976&show_icons=true&theme=dark)
@@ -89,7 +89,7 @@ I am amir h ahmadi,im always wake up with a nother idea, idont know why but im l
 
 
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=amir4976&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 
 
 
