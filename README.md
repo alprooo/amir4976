@@ -81,9 +81,8 @@ I am amir h ahmadi,im always wake up with a nother idea, idont know why but im l
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amir4976&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir4976&show_icons=true&theme=dark)
-  <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir4976&hide=TeX&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir4976&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir4976&hide=TeX&layout=compact&theme=dark&bg_color=0d1117&hide_border=true)
 
 
 
