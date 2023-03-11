@@ -6,7 +6,7 @@
 </h1>
 
 
-# 💻 developer
+# 💻 coolest developer (engineer?) you ever see
 
 
 <!-- **amir4976/amir4976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -17,9 +17,9 @@
 ## Hello world im a senior front end developer with two years experince in this erea
 ### i love coding , learning , reading , making , finding , working with puople and i work as hell to make my own idea and make it true 😎😎😀 
 
+##
 
-
-## ⚡ Technologies
+## ⚡ Technologies i use in a regular day
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="64" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="64" alt="css3 logo"  />
