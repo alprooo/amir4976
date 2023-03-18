@@ -80,13 +80,14 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir4976&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir4976&hide=TeX&layout=compact&theme=dark&bg_color=0d1117&hide_border=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir4976&hide=TeX&layout=defulte&theme=dark&bg_color=0d1117&hide_border=true)
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=amir4976&hide=TeX&layout=compact&theme=codeSTACKr&bg_color=0d1117&hide_border=true)
 
 ### contect with me
 [![Instagram Badge](https://img.shields.io/badge/-amir_h_ahmadi_i.m-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/amir_h_ahmadi_i.m/)](https://instagram.com/amir_h_ahmadi_i.m)
 [![twitter Badge](https://img.shields.io/badge/-@amirhosianahma1-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/amirhosianahma1)](https://twitter.com/amirhosianahma1)
 [![Gmail Badge](https://img.shields.io/badge/-amirhosianahmadi4976@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amirhosianahmadi4976@gmail.com)](mailto:kanna6501@gmail.com)
+
 
 
 
