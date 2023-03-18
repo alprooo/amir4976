@@ -80,7 +80,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir4976&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir4976&hide=TeX&layout=defulte&theme=dark&bg_color=0d1117&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir4976&hide=TeX&layout=compact&theme=dark&bg_color=0d1117&hide_border=true)
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=amir4976&hide=TeX&layout=compact&theme=codeSTACKr&bg_color=0d1117&hide_border=true)
 
 ### contect with me
