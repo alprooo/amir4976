@@ -93,6 +93,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-amirhosianahmadi4976@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amirhosianahmadi4976@gmail.com)](mailto:kanna6501@gmail.com)
 
 
-[![image](https://www.linkpicture.com/q/github-header-01.jpg)](https://www.linkpicture.com/view.php?img=LPic63e4001a7382057257096)
+<!--[![image](https://www.linkpicture.com/q/github-header-01.jpg)](https://www.linkpicture.com/view.php?img=LPic63e4001a7382057257096)-->
 
 
