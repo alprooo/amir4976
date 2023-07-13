@@ -1,4 +1,6 @@
-[![image](https://www.linkpicture.com/q/github-cover.jpg)](https://www.linkpicture.com/view.php?img=LPic64974099d7f07447806007)
+[![image](https://www.linkpicture.com/q/github-cover2-01.jpg)](https://www.linkpicture.com/view.php?img=LPic64b053ccc01691402382200)
+
+<!--[![image](https://www.linkpicture.com/q/github-cover.jpg)](https://www.linkpicture.com/view.php?img=LPic64974099d7f07447806007)-->
 
 <h1 align="center" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&pause=1000&color=F7C33D&width=700&height=93&lines=Hello+world+im+Amir+H+Ahmadi+%F0%9F%98%80;im+a+web+developer%F0%9F%98%8E%F0%9F%98%8E" alt="Typing SVG" /></a>
