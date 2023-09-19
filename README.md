@@ -21,7 +21,7 @@
 
 
 ## Hello world im a senior front end developer with two years experince in this erea
-### i love coding , learning , reading , making , finding , working with puople and i work as hell to make my own idea and make it true 😎😎😀 
+### i love coding , learning ,reading , making , finding ,designing ,drowing ,debuging , movies ,serials ,and more ...😅 
 
 ##
 
