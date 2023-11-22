@@ -112,7 +112,7 @@
 ### contect with me
 [![Instagram Badge](https://img.shields.io/badge/-amir_h_ahmadi_i.m-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/amir_h_ahmadi_i.m/)](https://instagram.com/amir_h_ahmadi_i.m)
 [![twitter Badge](https://img.shields.io/badge/-@amirhosianahma1-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/amirhosianahma1)](https://twitter.com/amirhosianahma1)
-[![Gmail Badge](https://img.shields.io/badge/-amirhahmadi4976@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amirhosianahmadi4976@gmail.com)](mailto:kanna6501@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-amirhahmadi4976@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amirhahmadi4976@gmail.com)]
 
 
 <!--[![image](https://www.linkpicture.com/q/github-header-01.jpg)](https://www.linkpicture.com/view.php?img=LPic63e4001a7382057257096)-->
